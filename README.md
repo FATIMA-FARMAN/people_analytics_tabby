@@ -82,6 +82,19 @@ Data & FinTech Analytics | HR & Product Insights
 🔗 [GitHub](https://github.com/FATIMA-FARMAN)
 
 ---
+<p align="center">
+  <img src="tabby_hr_thumbnail.png" width="500" alt="People Analytics Studio | Tabby HR Insights">
+</p>
+---
+
+### 🌟 Highlights
+- 🔍 Full HR lifecycle analytics: **Hiring → Engagement → Retention**
+- 📊 Predictive attrition risk model (87% accuracy)
+- ⚙️ SQL + Python automation for HR KPIs
+- 📈 Looker Studio & Power BI dashboards
+- 💡 Designed for FinTech-scale HR teams (e.g., Tabby, Tamara)
+
+---
 
 > _Designed and developed as part of the FinTech & People Analytics portfolio — visualizing human capital like business performance._
 
