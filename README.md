@@ -55,8 +55,7 @@ The goal is to **visualize key HR metrics** such as hiring funnel efficiency, at
 ## 🚀 Results & Visualization
 
 📈 **Live Dashboards**
-- [Looker Studio Dashboard (Demo)](https://lookerstudio.google.com/)  
-- [Power BI Export (Sample)](https://app.powerbi.com/)
+- HR Analytics excutive dashboad 169.png
 
 📘 **Reports**
 - `reports/HR_Analytics_Executive_Summary.pdf`  
